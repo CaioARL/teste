@@ -1,1 +1,1 @@
-version = 'develop-SNAPSHOT'
+version = 'develop'
